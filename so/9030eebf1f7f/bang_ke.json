@@ -1,0 +1,546 @@
+{
+ "cach_chia": "mỗi lớp: hoán vị ngẫu nhiên, xếp theo source_file rồi chia lần lượt cho các đề",
+ "cot_giu_them": [
+  "src_row",
+  "source_file"
+ ],
+ "de": [
+  {
+   "sha256": "b2fc393777bda33a15fe165dcc8e052180a9af3905716b2b9b9c6ee479508b04",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_001",
+   "tep": "kho/de/de_001.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "f0f1095b6b92a3f3fece0fa06c4d5c3aff6c3180a85dc7c1da07c3be6eee5af4",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_002",
+   "tep": "kho/de/de_002.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "6dea88208dd3c6da8e29b44ea5f1a96eaeb0024dba0f65e14a0c74f5d4cf93a8",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_003",
+   "tep": "kho/de/de_003.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "1f72625b54bcbd91f482f6d5fe9546b4e854e4d544d33a226b4ca83fbd688373",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_004",
+   "tep": "kho/de/de_004.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "871fbcfcdd6078a0be4693fc5fb7f32dea5e341b5511cc2e6a36735b3b80abdd",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_005",
+   "tep": "kho/de/de_005.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "58a7b030a51b4e5aa04563e65dc3d32eab3e5c6ea4bff4746293c1dca89186e1",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_006",
+   "tep": "kho/de/de_006.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "5de47dd16961477cc4d7c6e8cbf8db5249e92fa852c655cc3457166056776853",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_007",
+   "tep": "kho/de/de_007.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "9c8531a3534f26f561dcbaf226bcf6c24cb29792ba85c80741311d592d3afdff",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_008",
+   "tep": "kho/de/de_008.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "464eb371040e0bb0b8ac1e79ad3b8cf8cbe77f9e7850467c75a5bb3b0116fe05",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_009",
+   "tep": "kho/de/de_009.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "8350abe563d01a63b79795f6377037928489675a4d63a7f785072f3a1f12afc7",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_010",
+   "tep": "kho/de/de_010.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "cf17f8f6aa2184952e93ca0fd006981ab472a4b80fd746f32065c8ba0646cc65",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_011",
+   "tep": "kho/de/de_011.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "12dca973a588f9b70b29d4598ae13ba7bf85d1fa45f820d828daa06fa1f1a7ba",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_012",
+   "tep": "kho/de/de_012.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "87ad4a4480b167f9e344984a60489044c1c0d32fad5f85dd875d9db754b82984",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_013",
+   "tep": "kho/de/de_013.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "ad0d6bb49236bc69f6f3ff6151c10ab33a0d09b9f04097bc044467e9e1dbc146",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_014",
+   "tep": "kho/de/de_014.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "84d00693066b5afc655a4d96a42508a259ced6b4721fb7fb37d9e6893bdf1eaa",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_015",
+   "tep": "kho/de/de_015.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "5e8c44d87efaa282b8160a3b476131526faf978cf10f72625ac1f273d4364cd8",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_016",
+   "tep": "kho/de/de_016.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "73656747f76ed8eb276327519f924db811497213615e2c4b7941e834f2df377b",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_017",
+   "tep": "kho/de/de_017.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "2dd9538445bdda296c12dbf92584ca9f6f4c1ab1faba807975de4f22f990b1b4",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_018",
+   "tep": "kho/de/de_018.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "cf651a2874f519f913cd8e7159a2ba1a492d548a5755d7cc5782e193f9557a62",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_019",
+   "tep": "kho/de/de_019.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "0a1f09a37462179b9b4e2b2fe9f6122bb0b59eb78fb0e192dc62c3de3bc75c5b",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_020",
+   "tep": "kho/de/de_020.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "bfd9ca3046c8645ed95ba62230e456df4cee3540b47123d65944fa5640d38700",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_021",
+   "tep": "kho/de/de_021.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "0ab5975d9fb03dde85f6bae16a5511f0be8c0cd548897fa3150cc31816d417f0",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_022",
+   "tep": "kho/de/de_022.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "eddacfaae9e62980d96808fee1b30b5806c60f7ce6c7d62dcb2fb02adb5da9b3",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_023",
+   "tep": "kho/de/de_023.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "c6811b23d9899aa7f43353a4b26bd1c630c0db2e3d68e63f2997d13aea1198e4",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_024",
+   "tep": "kho/de/de_024.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "fde4ebf45c30da82edacd2526ff5543e2bb9c1b10b0e7f499607d30cde568b1b",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_025",
+   "tep": "kho/de/de_025.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "21d49c7f6c1f22f684f8e21b05deaaf70ce7a4ac00cea37f0ff084dcdd072d3d",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_026",
+   "tep": "kho/de/de_026.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "72df48d7b5e607fa5ac2c106d27381faa0c40eb653dcde3519774e384843751d",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_027",
+   "tep": "kho/de/de_027.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "cd92a3f1522987efc0cc2cba2f5537a670f4b614b26757b9693ddd541bf81985",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_028",
+   "tep": "kho/de/de_028.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "6c13462a0d960d3bdd86ed80283f9143a69238d8d146d71375c2a52ea8225526",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_029",
+   "tep": "kho/de/de_029.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "2d18275a4b372d9dbf5c724834c4f341fb88d7afa405f839132f3c9149561f63",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_030",
+   "tep": "kho/de/de_030.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "af0ebb0765d3e36229e105a589ff2a7dacee8c6af46c376b23108e0908319650",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_031",
+   "tep": "kho/de/de_031.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "4588d62e224a168b0f3a817e18913a992dcce6977552a5e299e4b3a49f568a09",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_032",
+   "tep": "kho/de/de_032.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "03c0b243c016271524ad29626c736e01814e6f80c31c843493b5a778eb4c691c",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_033",
+   "tep": "kho/de/de_033.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "b9d8a8b30b2600620456d885b6f60e74980b45c7e7055f8e3d1ac452d7124654",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_034",
+   "tep": "kho/de/de_034.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "3b2e6cd43d1553688a8dd340f05da43b9d71bc650e668a76a31aa11582c9cf35",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_035",
+   "tep": "kho/de/de_035.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "a69814432a6f1355c883d5c5e3988ff5fcf82c3e464fa49271bd3a5395a27ed2",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_036",
+   "tep": "kho/de/de_036.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "26782a1bc3f19ba5d1c58bb26f9e8fd39d8fc4b05a397526c37d1ecdf81f745a",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_037",
+   "tep": "kho/de/de_037.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "55a9627aa31cc7c5476fe3908cde0e52aada825ce53ec9e89efbdba1e8929d69",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_038",
+   "tep": "kho/de/de_038.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "6d404e6fe0315978c429f29969ff4f76d650a71284da82ef08a8e7f35e1a3c9e",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_039",
+   "tep": "kho/de/de_039.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  },
+  {
+   "sha256": "64e201b6dd592e6d7f413342fe19b7768dab70c7d08976a1710519ef7e5f8837",
+   "so_dong": 4000,
+   "so_tep_nguon": 59,
+   "ten": "de_040",
+   "tep": "kho/de/de_040.csv.gz",
+   "theo_lop": {
+    "Benign": 1000,
+    "DDoS": 1000,
+    "DoS": 1000,
+    "Mirai": 1000
+   }
+  }
+ ],
+ "dong_moi_lop": 1000,
+ "hat_giong_chia": 20261123,
+ "lop": [
+  "Benign",
+  "DDoS",
+  "DoS",
+  "Mirai"
+ ],
+ "luc": "2026-11-23T08:03:16+00:00",
+ "mo_ta": "Đề diễn tập: lấy từ test tách theo tệp đã chấm một lần ngày 10/11/2026, nên KHÔNG phải kết quả mới và không tính điểm; kho này để mọi người tự bốc và kiểm tra cơ chế phòng thi. Kết quả thi thật là đợt 19/11 trên 30 tệp dự phòng.",
+ "nguon": {
+  "sha256": "a4e910f66a6a2691b60df0a8b34fafa40f600a7f1c0d02bc284e6a1af6e83328",
+  "tep": "test_theo_file.parquet"
+ },
+ "phien_ban": "phong_thi_kin_web/1",
+ "so_de": 40,
+ "ten_kho": "Kho đề diễn tập (web), lấy từ test cuối đã chấm 10/11/2026, không tính điểm"
+}
