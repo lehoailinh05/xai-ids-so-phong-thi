@@ -1,0 +1,117 @@
+{
+ "bang_ke_sha256": "bb8cd67a0eff428c1cd4da604a2e5d90bdba6c4dd9a67b01af46070b6dca2689",
+ "doi_chieu_train_sha256": "caf8377256f49da50e9fccac5d2da568bfa3da0213b90a6f6dcd42d807b79c66",
+ "kho": {
+  "lop": [
+   "Benign",
+   "DDoS",
+   "DoS",
+   "Mirai"
+  ],
+  "so_de": 40,
+  "ten_kho": "Kho đề diễn tập (web), lấy từ test cuối đã chấm 10/11/2026, không tính điểm"
+ },
+ "luc": "2026-11-23T08:03:20+00:00",
+ "ly_do": null,
+ "ma_nguon": {
+  "__init__.py": "5cb894ae10ee3048e3e433789d1c495daa79063eaece001ed2857da213ba226a",
+  "cham.py": "87820e2a5d545341dbfcd901a5c94e96bf8df576db7edfb500f65939fdf310b5",
+  "chung.py": "5b009022e8a57c3811bfa755251f06758c221d4c8dd32f051d858fc96b13dcde",
+  "du_lieu.py": "5a0f9b8ecd03099aa763b655d7afe37fa509b9ddb60e775d83cce12a54cf9434",
+  "mo_hinh.py": "c2287ea5512e0378fd22734897ef3439ba515ade4f4d609bb22fb34dce54bc41",
+  "phong.py": "46531231cb4aa37ef5404c75e7320f391477d5391de9d1051804b940d83610e4",
+  "so.py": "b86ca742e14f4f88c4b08aebf5bb3f1af0f719374c03ef28742c239c92f14930"
+ },
+ "mo_hinh": [
+  {
+   "sha256": "308e1bff5443d10c690ad1146c4cc0a8940e5db3021c53caf7aa82345908c837",
+   "ten": "HGB_B"
+  }
+ ],
+ "moi_truong": {
+  "he_dieu_hanh": "Windows",
+  "joblib": "1.6.0",
+  "numpy": "2.5.4",
+  "pandas": "3.1.0",
+  "pyarrow": "26.0.0",
+  "python": "3.14.8",
+  "sklearn": "1.9.1"
+ },
+ "phien_ban": "phong_thi_kin_web/1",
+ "phong": {
+  "cap_nham": [
+   [
+    "DoS",
+    "DDoS"
+   ]
+  ],
+  "cot_nhan": "category",
+  "dac_trung": [
+   "mean_packet_size",
+   "max_packet_size",
+   "inter_arrival_time",
+   "time_to_live",
+   "ack_flag_number",
+   "min_packet_size",
+   "header_length",
+   "std_packet_size",
+   "protocol_type",
+   "https",
+   "psh_flag_number",
+   "ssh",
+   "tcp",
+   "udp",
+   "syn_flag_number",
+   "http",
+   "rst_flag_number",
+   "fin_flag_number"
+  ],
+  "doi_chieu_train": {
+   "dinh_nghia": "dòng 'đã thấy' = vector các đặc trưng (ép float32, -0 coi như 0) trùng y hệt một dòng của train; so bằng mã BLAKE2b 64 bit của vector",
+   "nguon": {
+    "sha256": "5f86aee1301ed46abf98706e0a6c2f4615ca079e6506b02eb897442e5092b0b7",
+    "tep": "train.parquet"
+   },
+   "sha256": "caf8377256f49da50e9fccac5d2da568bfa3da0213b90a6f6dcd42d807b79c66",
+   "so_dong_train": 990156,
+   "so_vector_khac_nhau": 879487,
+   "tep": "doi_chieu/train_bam.npy"
+  },
+  "gioi_han": {
+   "cam_ket_mo_toi_da": 20,
+   "dung_luong_mb": 20,
+   "phut_het_han": 30,
+   "so_dong_toi_da": 300000
+  },
+  "lop": [
+   "Benign",
+   "BruteForce",
+   "DDoS",
+   "DoS",
+   "Mirai",
+   "Recon",
+   "Spoofing",
+   "Web"
+  ],
+  "lop_lanh": "Benign",
+  "luc_tao": "2026-11-23T08:03:14+00:00",
+  "mo_hinh": [
+   {
+    "byte": 23472000,
+    "cho_tai": true,
+    "kieu": "sklearn_joblib",
+    "mo_ta": "",
+    "nguon": "D:\\doan\\tach_file\\model_HGB_B.joblib",
+    "quy_tac": "argmax_proba_float32",
+    "quy_tac_chu": "dự đoán = lớp có xác suất lớn nhất (argmax predict_proba), đầu vào ép float32, không ngưỡng, không hệ số nhân",
+    "sha256": "308e1bff5443d10c690ad1146c4cc0a8940e5db3021c53caf7aa82345908c837",
+    "ten": "HGB_B",
+    "tep": "mo_hinh/HGB_B.joblib.gz"
+   }
+  ],
+  "mo_ta": "Đồ án tốt nghiệp nhóm 01, Đại học Thăng Long. Mô hình HGB_B đã khóa ngày 08/11/2026, không huấn luyện lại.",
+  "phien_ban": "phong_thi_kin_web/1",
+  "ten_phong": "Phòng thi kín cho mô hình phát hiện xâm nhập IoT (CICIoT2023)"
+ },
+ "phong_sha256": "f743bfb5a64d9b2181a9f139b53bb79b033b47226fc19fe34f448991ceb94c23"
+}
