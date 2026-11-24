@@ -1,0 +1,75 @@
+{
+ "cap_nham": [
+  [
+   "DoS",
+   "DDoS"
+  ]
+ ],
+ "cot_nhan": "category",
+ "dac_trung": [
+  "mean_packet_size",
+  "max_packet_size",
+  "inter_arrival_time",
+  "time_to_live",
+  "ack_flag_number",
+  "min_packet_size",
+  "header_length",
+  "std_packet_size",
+  "protocol_type",
+  "https",
+  "psh_flag_number",
+  "ssh",
+  "tcp",
+  "udp",
+  "syn_flag_number",
+  "http",
+  "rst_flag_number",
+  "fin_flag_number"
+ ],
+ "doi_chieu_train": {
+  "dinh_nghia": "dòng 'đã thấy' = vector các đặc trưng (ép float32, -0 coi như 0) trùng y hệt một dòng của train; so bằng mã BLAKE2b 64 bit của vector",
+  "nguon": {
+   "sha256": "5f86aee1301ed46abf98706e0a6c2f4615ca079e6506b02eb897442e5092b0b7",
+   "tep": "train.parquet"
+  },
+  "sha256": "caf8377256f49da50e9fccac5d2da568bfa3da0213b90a6f6dcd42d807b79c66",
+  "so_dong_train": 990156,
+  "so_vector_khac_nhau": 879487,
+  "tep": "doi_chieu/train_bam.npy"
+ },
+ "gioi_han": {
+  "cam_ket_mo_toi_da": 20,
+  "dung_luong_mb": 20,
+  "phut_het_han": 30,
+  "so_dong_toi_da": 300000
+ },
+ "lop": [
+  "Benign",
+  "BruteForce",
+  "DDoS",
+  "DoS",
+  "Mirai",
+  "Recon",
+  "Spoofing",
+  "Web"
+ ],
+ "lop_lanh": "Benign",
+ "luc_tao": "2026-11-23T08:03:14+00:00",
+ "mo_hinh": [
+  {
+   "byte": 23472000,
+   "cho_tai": true,
+   "kieu": "sklearn_joblib",
+   "mo_ta": "",
+   "nguon": "D:\\doan\\tach_file\\model_HGB_B.joblib",
+   "quy_tac": "argmax_proba_float32",
+   "quy_tac_chu": "dự đoán = lớp có xác suất lớn nhất (argmax predict_proba), đầu vào ép float32, không ngưỡng, không hệ số nhân",
+   "sha256": "308e1bff5443d10c690ad1146c4cc0a8940e5db3021c53caf7aa82345908c837",
+   "ten": "HGB_B",
+   "tep": "mo_hinh/HGB_B.joblib.gz"
+  }
+ ],
+ "mo_ta": "Đồ án tốt nghiệp nhóm 01, Đại học Thăng Long. Mô hình HGB_B đã khóa ngày 08/11/2026, không huấn luyện lại.",
+ "phien_ban": "phong_thi_kin_web/1",
+ "ten_phong": "Phòng thi kín cho mô hình phát hiện xâm nhập IoT (CICIoT2023)"
+}
